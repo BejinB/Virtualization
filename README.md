@@ -1,7 +1,7 @@
 # Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
-### NAME: Hemanth Kumar R
-### REG NO: 212223040065
+### NAME: BEJIN B
+### REG NO: 212222230021
 
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
